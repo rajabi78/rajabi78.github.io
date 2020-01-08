@@ -18,7 +18,11 @@ gallery:
   - url: /assets/images/10.jpg
     image_path: /assets/images/10.jpg
     alt: "placeholder image 10"
-    title: "computer"   
+    title: "computer"
+  - url: /assets/images/10.jpg
+    image_path: /assets/images/12.jpg
+    alt: "placeholder image 12"
+    title: "lab"   
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
